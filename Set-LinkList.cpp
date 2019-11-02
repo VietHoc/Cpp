@@ -6,6 +6,7 @@ struct Node
 	int data;
 	Node* next;
 };
+// hoc le
 typedef struct Node* pNode;
 class Set
 {
